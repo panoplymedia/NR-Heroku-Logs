@@ -1,1 +1,1 @@
-web: bundle exec fluentd --use-v1-config -c fluent.conf
+web: bundle exec fluentd -vv --use-v1-config -c fluent.conf
